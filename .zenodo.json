@@ -1,0 +1,36 @@
+{
+  "title": "Dataset For: A research roadmap for assessing the feasibility of warming Mars",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Essunfeld, Ari",
+      "affiliation": "Astera Institute",
+      "orcid": "0000-0001-8689-0734"
+    },
+    {
+      "name": "Kite, Edwin",
+      "affiliation": "U Chicago",
+      "orcid": "0000-0002-1426-1186"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Coffin, Lily",
+      "affiliation": "Astera Institute",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Nakagawa, Tatsuwaki",
+      "affiliation": "CU Boulder",
+      "type": "ProjectMember"
+    }
+  ],
+  "keywords": [
+    "Mars",
+    "Terraforming",
+    "dataset",
+    "cost model",
+    "cost estimate",
+    "technoeconomic analysis"
+  ]
+}
